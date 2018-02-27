@@ -1,0 +1,2 @@
+Get result from SayHelloJob: Hello!
+GoodBye, 2018-Feb-26

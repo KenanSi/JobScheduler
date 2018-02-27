@@ -1,0 +1,23 @@
+2018-Feb-26 23:05:47	Job scheduler starts.
+2018-Feb-26 23:05:47	Schedule monitor starts.
+2018-Feb-26 23:05:47	Executor pool starts.
+2018-Feb-26 23:05:47	J001 is scheduled at 2018-Feb-26 23:05:48.
+2018-Feb-26 23:05:47	J002 is scheduled at 2018-Feb-26 23:05:50.
+2018-Feb-26 23:05:47	J003 is scheduled at 2018-Feb-26 23:05:52.
+2018-Feb-26 23:05:50	J002 didn't run. The upstream jobs are not done yet.
+2018-Feb-26 23:05:50	J002 is scheduled at 2018-Feb-26 23:05:51.
+2018-Feb-26 23:05:51	J002 didn't run. The upstream jobs are not done yet.
+2018-Feb-26 23:05:51	J002 is scheduled at 2018-Feb-26 23:05:52.
+2018-Feb-26 23:05:52	J003 failed. Error message: No data called "object_date" found.
+2018-Feb-26 23:05:52	J002 didn't run. The upstream jobs are not done yet.
+2018-Feb-26 23:05:52	J002 is scheduled at 2018-Feb-26 23:05:53.
+2018-Feb-26 23:05:53	J002 didn't run. The upstream jobs are not done yet.
+2018-Feb-26 23:05:53	J002 is scheduled at 2018-Feb-26 23:05:54.
+2018-Feb-26 23:05:53	J001 done.
+2018-Feb-26 23:05:56	J002 done.
+2018-Feb-26 23:05:57	Scheduler is shutting down.
+2018-Feb-26 23:05:57	Schedule monitor is shutting down.
+2018-Feb-26 23:05:57	Schedule monitor shut down.
+2018-Feb-26 23:05:57	Executor pool is shutting down.
+2018-Feb-26 23:05:57	Executor pool shut down.
+2018-Feb-26 23:05:57	Scheduler shut down.
